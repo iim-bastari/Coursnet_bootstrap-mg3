@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.home-banner .carousel-item{
+    height: 92vh;
+}
+
+.section-service{
+    padding: 0px 30px;
+}
+
+
+.section-service .box{
+    text-align: left;
+    padding: 30px 30px;
+}
+
+
+footer p {
+    text-align: left;
+    margin-top: -80px;
+    text-indent: 115px;
+}
+
